@@ -4,7 +4,7 @@
 ![Test](https://readme-typing-svg.herokuapp.com?color=ff00f3&lines=Digital+Forensic;Incident+Response;Cybersecurity+Analyst;DevSecOps;SOC+Analyst&center=false&width=500&height=50")
 
 ## <img src="https://i.pinimg.com/originals/f5/54/89/f5548916ca86b30f7b8f418e4c5c6794.png" alt="pokebola" width="50" style="background-color:#007AFF; border-radius: 5px; padding: 2px;" /> About me
-Self-taught network engineer focused on cybersecurity and DevSecOps. Passionate about technology, always eager to learn how things work. I also enjoy fixing cars in my free time. You can explore my portfolio (poorly written) here.
+Self-taught network engineer focused on cybersecurity and DevSecOps. Passionate about technology, always eager to learn how things work. I also enjoy fixing cars in my free time. You can explore my portfolio (poorly written) [here](https://loaaan.github.io/blog/).
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mariano-s%C3%A1nchez-308230290/)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Meowthware)
