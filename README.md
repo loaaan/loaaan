@@ -3,7 +3,7 @@
 
 ![Test](https://readme-typing-svg.herokuapp.com?color=ff00f3&lines=Digital+Forensic;Incident+Response;Cybersecurity+Analyst;DevSecOps;SOC+Analyst&center=false&width=500&height=50")
 
-## About me
+<img src="https://i.pinimg.com/originals/f5/54/89/f5548916ca86b30f7b8f418e4c5c6794.png" alt="pokebola" width="50" style="background-color:#007AFF; border-radius: 5px; padding: 2px;" /> ## About me
 Self-taught network engineer focused on cybersecurity and DevSecOps. Passionate about technology, always eager to learn how things work. I also enjoy fixing cars in my free time. You can explore my portfolio (poorly written) here.
 
 # 🌐 Socials:
@@ -34,6 +34,10 @@ Self-taught network engineer focused on cybersecurity and DevSecOps. Passionate 
 <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="gobuster" width="50" />
 <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" width="50" />
 <img src="https://www.vultr.com/media/vultr/Vultr_Logo_White.svg" alt="Vultr" width="50" style="background-color:#007AFF; border-radius: 5px; padding: 2px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Ghidra_Logo.png" alt="Ghidra" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Volatility_logo.png" alt="Volatility" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" width="60" />
+
